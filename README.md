@@ -34,14 +34,6 @@ I'm a **Go Backend Developer** passionate about building efficient, scalable, an
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gettingthingsdoneee&theme=radical" alt="GitHub Contributions" />
-</div>
-
----
-
 <div align="center">
 
   **Have a great day!** 😊
